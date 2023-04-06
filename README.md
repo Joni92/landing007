@@ -1,5 +1,5 @@
 # landing007
-Parallax w/ parallax scrolling effects
+Parallax w/ parallax scrolling effects - only js
 
 ✅ Link GitHub Pages -> preview: https://joni92.github.io/landing007/
 
